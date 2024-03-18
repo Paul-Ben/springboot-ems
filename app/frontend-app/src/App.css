@@ -1,0 +1,14 @@
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+.myheader {
+  position: fixed !important ; 
+  width: 100%;
+} 
